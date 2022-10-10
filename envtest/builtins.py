@@ -4,7 +4,7 @@ from scipy import misc
 import math
 
 
-__all__ = ['rand_array', 'smooth_image', 'my_mat_solve', 'math_mathod']
+__all__ = ['rand_array', 'smooth_image', 'my_mat_solve', 'math_method']
 
 
 def rand_array(shape):
